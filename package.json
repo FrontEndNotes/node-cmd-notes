@@ -1,0 +1,14 @@
+{
+  "name": "node-cmd-notes",
+  "version": "1.0.0",
+  "description": "Simple command line CRUD app for note taking",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FrontEndNotes.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
+}
